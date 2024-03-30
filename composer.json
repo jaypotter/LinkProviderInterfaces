@@ -7,6 +7,13 @@
         "potter/link-provider-interface": "dev-main",
         "potter/evolvable-link-provider-interface": "dev-main"
     },
+    "suggest": {
+        "potter/link-provider": "dev-main",
+        "potter/link-interfaces": "dev-main",
+        "potter/link": "dev-main",
+        "potter/contracts": "dev-main",
+        "potter/framework": "dev-main"
+    },
     "license": "MIT",
     "authors": [
         {
