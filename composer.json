@@ -1,11 +1,11 @@
 {
     "name": "potter/link-provider-interfaces",
-    "description": "PHP Link Provider Interface Collection",
+    "description": "PHP Collection of Link Provider Interfaces",
     "type": "metapackage",
     "require": {
         "php": "^8.3",
-        "potter/link-provider-interface": "dev-main",
-        "potter/evolvable-link-provider-interface": "dev-main"
+        "potter/link-provider-interface": "v0.0.1-alpha",
+        "potter/evolvable-link-provider-interface": "v0.0.1-alpha"
     },
     "suggest": {
         "potter/link-provider": "dev-main",
@@ -21,5 +21,5 @@
             "email": "j@ypotter.ca"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "alpha"
 }
