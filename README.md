@@ -5,7 +5,7 @@ PHP Collection of Link Provider Interfaces
 
 Requires:
  * [potter/link-provider-interface](https://github.com/jaypotter/LinkProviderInterface)
- * [potter/evolvable-link-provider-interfaces](https://github.com/jaypotter/EvolvableLinkProviderInterface)
+ * [potter/evolvable-link-provider-interface](https://github.com/jaypotter/EvolvableLinkProviderInterface)
 
 Suggests:
  * [potter/link-provider](https://github.com/jaypotter/LinkProvider)
